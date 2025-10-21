@@ -2,10 +2,3 @@ __pycache__/
 *.pyc
 .env
 *.log
-# Игнорировать скриншоты
-testscrin.jpg
-psq.jpg
-psq2.jpg
-
-# Игнорировать файл с SQL-запросами
-sql.txt
